@@ -41,9 +41,9 @@ while True:
     distance = abs(guess_x - x) + abs(guess_y - y)
 
     # Print message based on distance
-    if distance < 3:
+    if distance <= 2:
         print("Hot!")
-    elif distance < 6:
+    elif distance <= 4:
         print("Warm")
     else:
         print("Cold.")
