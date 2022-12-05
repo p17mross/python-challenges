@@ -16,3 +16,6 @@ Solutions to the little book of programming challenges in python
 
 ## 23 - Treasure Hunt
 ![Screenshot of the output of 23 - Treasure Hunt/main.py](images/23%20-%20Treasure%20Hunt.png)
+
+## 25 - Playing Cards
+![Screenshot of the output of 25 - Playing Cards/main.py - part 1 of 3](images/25%20-%20Playing%20Cards%201.png)  ![Screenshot of the output of 25 - Playing Cards/main.py - part 2 of 3](images/25%20-%20Playing%20Cards%202.png) ![Screenshot of the output of 25 - Playing Cards/main.py - part 3 of 3](images/25%20-%20Playing%20Cards%203.png)
